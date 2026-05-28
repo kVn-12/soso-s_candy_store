@@ -1,12 +1,27 @@
 body {
-  font-family: 'Trebuchet MS', sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
   margin: 0;
 }
 
 .title {
-    font-family: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+    padding-top: 1%;
     font-weight: bold;
     font-size: 50pt;
     color: hotpink;
     text-align: center;
+    background-color: rgb(202, 242, 255);
+    height: 105px;
+}
+
+.about_me {
+    font-size: 15pt;
+    padding-left: 150px;
+    padding-right: 300px;
+    padding-top: 40px;
+    display: block;
+    height: auto;
+}
+
+.article {
+    
 }
