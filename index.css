@@ -1,0 +1,57 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+  margin: 0;
+}
+
+.title {
+    padding-top: 1%;
+    font-weight: bold;
+    font-size: 30pt;
+    color: hotpink;
+    text-align: center;
+    background-color: rgb(202, 242, 255);
+    height: 65px;
+}
+
+.about_me {
+    font-size: 15pt;
+    padding-left: 10vh;
+    padding-right: 15vh;
+    padding-top: 40px;
+    display: block;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+.shopping_row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    gap: 1rem;
+    padding-left: 60px;
+    padding-right: 60px;
+    align-items: stretch;
+}
+
+.shopping_column {
+    display: flex;
+    flex-direction: column;
+    justify-content:baseline;
+    gap: 1rem;
+    flex:1;
+}
+
+.article {
+    min-height:250px;
+    flex: 1;
+    box-sizing: border-box;
+    width: 230px;
+    border-color: hotpink;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 25px;
+    font-size: 20pt;
+    text-align: center;
+    padding-top: 10px;
+
+}
