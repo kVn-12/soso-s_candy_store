@@ -1,0 +1,44 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
+  margin: 0;
+  background-color: rgb(247, 244, 248);
+}
+
+.header {
+    font-weight: bold;
+    font-size: 30pt;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(255, 140, 200), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(255, 140, 200));
+    border-radius: 0 0 100% 100%;
+    height: 125px;
+}
+
+.title {
+    padding-top: 4%;
+    color: hotpink;
+    font-weight: bold;
+    font-size: 30pt;
+    text-align: center;;
+}
+
+.about_me {
+    font-size: 15pt;
+    padding-left: 10vh;
+    padding-right: 15vh;
+    padding-top: 40px;
+    display: block;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+.fuss {
+    margin-top: 42vh;
+    font-size: 25pt;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(255, 140, 200), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(255, 140, 200));
+    border-radius: 100% 100% 0 0;
+    height: 75px;
+    color: hotpink;
+    padding-top: 50px;
+    bottom: 0px;
+}
