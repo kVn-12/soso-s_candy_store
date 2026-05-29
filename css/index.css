@@ -22,7 +22,7 @@ body {
 }
 
 .about_me {
-    font-size: 15pt;
+    font-size: 12pt;
     padding-left: 5vh;
     padding-right: 5vh;
     padding-top: 40px;
@@ -36,8 +36,8 @@ body {
     flex-direction: row;
     justify-content: space-between; 
     gap: 1rem;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
     align-items: stretch;
     padding-bottom: 5%;
 }
@@ -60,7 +60,7 @@ body {
     border-width: 3px;
     border-style: solid;
     border-radius: 17px;
-    font-size: 15pt;
+    font-size: 14pt;
     text-align: center;
     padding-top: 10px;
 }
