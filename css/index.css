@@ -53,7 +53,7 @@ body {
 }
 
 .article {
-    min-height: 100px;
+    min-height: 75px;
     flex: 1;
     box-sizing: border-box;
     width: auto;
@@ -62,7 +62,7 @@ body {
     border-width: 3px;
     border-style: solid;
     border-radius: 17px;
-    font-size: 12pt;
+    font-size: 10pt;
     text-align: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ body {
     padding-top: 2%;
     background-color: rgb(247, 244, 248);
     border-radius: 14px 14px 0px 0px;
-    height: 32px;
+    height: 25px;
 }
 
 .fuss {
