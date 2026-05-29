@@ -6,7 +6,7 @@ body {
 
 .header {
     font-weight: bold;
-    font-size: 30pt;
+    font-size: 25pt;
     text-align: center;
     background-image: linear-gradient(to right, rgb(255, 140, 200), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(255, 140, 200));
     border-radius: 0 0 100% 100%;
