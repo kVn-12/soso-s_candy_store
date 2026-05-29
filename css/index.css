@@ -5,8 +5,6 @@ body {
 }
 
 .header {
-    font-weight: bold;
-    font-size: 25pt;
     text-align: center;
     background: rgb(255, 175, 216);
     display: flex;
@@ -19,7 +17,7 @@ body {
     padding-top: 5%;
     color: hotpink;
     font-weight: bold;
-    font-size: 30pt;
+    font-size: 25pt;
     text-align: center;
     width: 700px;
     height: 300px;
