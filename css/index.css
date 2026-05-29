@@ -9,7 +9,7 @@ body {
     background: rgb(255, 175, 216);
     display: flex;
     justify-content: center;
-    height: 125px;
+    height: 150px;
     background-image: linear-gradient(rgb(248, 240, 247),rgb(255, 175, 216),rgb(255, 190, 224), rgb(248, 240, 247));
 }
 
