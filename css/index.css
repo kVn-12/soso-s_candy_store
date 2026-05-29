@@ -17,7 +17,7 @@ body {
     padding-top: 5%;
     color: hotpink;
     font-weight: bold;
-    font-size: 25pt;
+    font-size: 20pt;
     text-align: center;
     width: 700px;
     height: 300px;
@@ -38,8 +38,8 @@ body {
     flex-direction: row;
     justify-content: space-between; 
     gap: 1rem;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
     align-items: stretch;
     padding-bottom: 5%;
 }
@@ -62,7 +62,7 @@ body {
     border-width: 3px;
     border-style: solid;
     border-radius: 17px;
-    font-size: 14pt;
+    font-size: 12pt;
     text-align: center;
     background-size: contain;
     background-repeat: no-repeat;
