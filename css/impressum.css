@@ -33,7 +33,7 @@ body {
 
 .fuss {
     margin-top: 42vh;
-    font-size: 25pt;
+    font-size: 20pt;
     text-align: center;
     background-image: linear-gradient(to right, rgb(255, 140, 200), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(255, 140, 200));
     border-radius: 100% 100% 0 0;
