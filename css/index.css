@@ -66,7 +66,7 @@ body {
 }
 
 .fuss {
-    margin-top: 5vh;
+    margin-top: 1vh;
     font-size: 20pt;
     text-align: center;
     background-image: linear-gradient(to right, rgb(255, 140, 200), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(255, 140, 200));

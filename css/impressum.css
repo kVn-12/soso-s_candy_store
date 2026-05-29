@@ -31,8 +31,16 @@ body {
     margin-bottom: 50px;
 }
 
+.pictures {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
 .fuss {
-    margin-top: 42vh;
+    margin-top: 5vh;
     font-size: 20pt;
     text-align: center;
     background-image: linear-gradient(to right, rgb(255, 140, 200), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(247, 202, 255), rgb(255, 140, 200));
