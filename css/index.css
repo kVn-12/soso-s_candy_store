@@ -54,7 +54,7 @@ body {
     min-height:250px;
     flex: 1;
     box-sizing: border-box;
-    width: 160px;
+    width: auto;
     color: rgb(157, 7, 77);
     border-color: hotpink;
     border-width: 3px;
